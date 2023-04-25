@@ -1,0 +1,33 @@
+C:\Users\ilker\Desktop\@@form\Form Uygulamaları\23.03.2023_ilkform\03.04.202_pizza_uguhoca\bin\Debug\03.04.202_pizza_uguhoca.exe.config
+C:\Users\ilker\Desktop\@@form\Form Uygulamaları\23.03.2023_ilkform\03.04.202_pizza_uguhoca\bin\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\ilker\Desktop\@@form\Form Uygulamaları\23.03.2023_ilkform\03.04.202_pizza_uguhoca\bin\Debug\03.04.202_pizza_uguhoca.pdb
+C:\Users\ilker\Desktop\@@form\Form Uygulamaları\23.03.2023_ilkform\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\@@form\Form Uygulamaları\23.03.2023_ilkform\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\@@form\Form Uygulamaları\23.03.2023_ilkform\03.04.202_pizza_uguhoca\obj\Debug\_03._04._202_pizza_uguhoca.Form1.resources
+C:\Users\ilker\Desktop\@@form\Form Uygulamaları\23.03.2023_ilkform\03.04.202_pizza_uguhoca\obj\Debug\_03._04._202_pizza_uguhoca.Properties.Resources.resources
+C:\Users\ilker\Desktop\@@form\Form Uygulamaları\23.03.2023_ilkform\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\@@form\Form Uygulamaları\23.03.2023_ilkform\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\@@form\Form Uygulamaları\23.03.2023_ilkform\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\ilker\Desktop\@@form\Form Uygulamaları\23.03.2023_ilkform\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.pdb
+C:\Users\DellPc\Desktop\Yeni klasör\03.04.202_pizza_uguhoca\bin\Debug\03.04.202_pizza_uguhoca.exe.config
+C:\Users\DellPc\Desktop\Yeni klasör\03.04.202_pizza_uguhoca\bin\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\DellPc\Desktop\Yeni klasör\03.04.202_pizza_uguhoca\bin\Debug\03.04.202_pizza_uguhoca.pdb
+C:\Users\DellPc\Desktop\Yeni klasör\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\Yeni klasör\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\Yeni klasör\03.04.202_pizza_uguhoca\obj\Debug\_03._04._202_pizza_uguhoca.Form1.resources
+C:\Users\DellPc\Desktop\Yeni klasör\03.04.202_pizza_uguhoca\obj\Debug\_03._04._202_pizza_uguhoca.Properties.Resources.resources
+C:\Users\DellPc\Desktop\Yeni klasör\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\Yeni klasör\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\Yeni klasör\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\DellPc\Desktop\Yeni klasör\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.pdb
+C:\Users\ilker\Desktop\03.04.202_pizza_uguhoca\bin\Debug\03.04.202_pizza_uguhoca.exe.config
+C:\Users\ilker\Desktop\03.04.202_pizza_uguhoca\bin\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\ilker\Desktop\03.04.202_pizza_uguhoca\bin\Debug\03.04.202_pizza_uguhoca.pdb
+C:\Users\ilker\Desktop\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\03.04.202_pizza_uguhoca\obj\Debug\_03._04._202_pizza_uguhoca.Form1.resources
+C:\Users\ilker\Desktop\03.04.202_pizza_uguhoca\obj\Debug\_03._04._202_pizza_uguhoca.Properties.Resources.resources
+C:\Users\ilker\Desktop\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\ilker\Desktop\03.04.202_pizza_uguhoca\obj\Debug\03.04.202_pizza_uguhoca.pdb
