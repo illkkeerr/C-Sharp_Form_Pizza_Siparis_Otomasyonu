@@ -23,6 +23,7 @@ namespace PizzaOtomasyonu
 
         private void Form1_Load(object sender, EventArgs e)
         {
+            listHafiza.Visible= false;
             rbInceKenar.Checked = true;
 
             Ebat kucuk = new Ebat { Adi = "Küçük", Carpani = 1 };
@@ -84,15 +85,25 @@ namespace PizzaOtomasyonu
 
         }
         Siparis siparis;
+        decimal toplamTutar = 0;
         private void btnSepeteEkle_Click(object sender, EventArgs e)
         {
+
             if (siparis != null)
+            {
+
                 listSepet.Items.Add(siparis);
+                listHafiza.Items.Add(siparis.ToplamTutar);
+                toplamTutar += siparis.ToplamTutar;
+                lblToplamTutar.Text = toplamTutar.ToString() + " TL";
+
+            }
+
         }
 
         private void btnSiparisOnayla_Click(object sender, EventArgs e)
         {
-            if(listSepet.Items.Count > 0)
+            if (listSepet.Items.Count > 0)
             {
                 decimal toplamtutar = 0;
                 int adet = 0;
@@ -101,11 +112,14 @@ namespace PizzaOtomasyonu
                     toplamtutar += spr.ToplamTutar;
                     adet++;
                 }
-                lblToplamTutar.Text = toplamtutar.ToString();
+                //lblToplamTutar.Text = toplamtutar.ToString();
                 MessageBox.Show($"Toplam Sipariş adediniz:{adet}\nToplam sipariş tutarınız:{toplamtutar}");
                 listSepet.Items.Clear();
+                lblToplamTutar.Text = "0 TL";
+                toplamTutar = 0;
+                listHafiza.Items.Clear();
             }
-            
+
 
 
         }
@@ -122,7 +136,13 @@ namespace PizzaOtomasyonu
         {
             int secilen = listSepet.SelectedIndex;
             if (secilen > -1)
+            {
                 listSepet.Items.RemoveAt(secilen);
+                toplamTutar -= decimal.Parse(listHafiza.Items[secilen].ToString());
+                listHafiza.Items.RemoveAt(secilen);
+                lblToplamTutar.Text = toplamTutar.ToString() + " TL";
+            }
+
         }
     }
 }
