@@ -1,0 +1,44 @@
+C:\Users\DellPc\Desktop\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.Form1.resources
+C:\Users\DellPc\Desktop\Pizza_Otomasyonu\obj\Debug\_03._04._202_pizza_uguhoca.Properties.Resources.resources
+C:\Users\DellPc\Desktop\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\Pizza_Otomasyonu\obj\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\DellPc\Desktop\Pizza_Otomasyonu\obj\Debug\03.04.202_pizza_uguhoca.pdb
+C:\Users\DellPc\Desktop\Pizza_Otomasyonu\bin\Debug\03.04.202_pizza_uguhoca.exe.config
+C:\Users\DellPc\Desktop\Pizza_Otomasyonu\bin\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\DellPc\Desktop\Pizza_Otomasyonu\bin\Debug\03.04.202_pizza_uguhoca.pdb
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\bin\Debug\03.04.202_pizza_uguhoca.exe.config
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\bin\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\bin\Debug\03.04.202_pizza_uguhoca.pdb
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.Form1.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\_03._04._202_pizza_uguhoca.Properties.Resources.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\03.04.202_pizza_uguhoca.pdb
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\bin\Debug\03.04.202_pizza_uguhoca.exe.config
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\bin\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\bin\Debug\03.04.202_pizza_uguhoca.pdb
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.Form1.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\_03._04._202_pizza_uguhoca.Properties.Resources.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Form_Pizza_Siparis_Otomasyonu-main\Pizza_Otomasyonu\obj\Debug\03.04.202_pizza_uguhoca.pdb
+C:\Users\DellPc\Desktop\github deneme\Pizza_Otomasyonu\bin\Debug\03.04.202_pizza_uguhoca.exe.config
+C:\Users\DellPc\Desktop\github deneme\Pizza_Otomasyonu\bin\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\DellPc\Desktop\github deneme\Pizza_Otomasyonu\bin\Debug\03.04.202_pizza_uguhoca.pdb
+C:\Users\DellPc\Desktop\github deneme\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\github deneme\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\github deneme\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.Form1.resources
+C:\Users\DellPc\Desktop\github deneme\Pizza_Otomasyonu\obj\Debug\_03._04._202_pizza_uguhoca.Properties.Resources.resources
+C:\Users\DellPc\Desktop\github deneme\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\github deneme\Pizza_Otomasyonu\obj\Debug\PizzaOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\github deneme\Pizza_Otomasyonu\obj\Debug\03.04.202_pizza_uguhoca.exe
+C:\Users\DellPc\Desktop\github deneme\Pizza_Otomasyonu\obj\Debug\03.04.202_pizza_uguhoca.pdb
